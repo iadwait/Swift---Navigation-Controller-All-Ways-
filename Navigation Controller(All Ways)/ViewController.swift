@@ -8,7 +8,7 @@
 
 import UIKit
 
-//Push - Pop,Present - Dismiss,Show Nav Bar when Present,Dismiss from 4th screen to 2nd Screen
+//Push - Pop,Present - Dismiss,Show Nav Bar when Present,Dismiss from 4th screen to 2nd Screen.
 
 class ViewController: UIViewController {
 
